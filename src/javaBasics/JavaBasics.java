@@ -31,11 +31,14 @@ public class JavaBasics {
 		//
 		//System.out.println(123,456);
 		//
+		//Rechnen
 		System.out.println(2+2);
 		System.out.println(4-3);
 		System.out.println(3*3);
 		System.out.println(9/3);
+		
 		//
+		
 	}
 	
 
