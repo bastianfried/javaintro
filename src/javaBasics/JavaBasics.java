@@ -36,8 +36,22 @@ public class JavaBasics {
 		System.out.println(4-3);
 		System.out.println(3*3);
 		System.out.println(9/3);
-		
 		//
+		//Rechnen #2
+		System.out.println(8/3);
+		System.out.println(8.0/3);
+		System.out.println(8/3.0);
+		System.out.println(9.0/3);
+		//F oder D
+		System.out.println(9/3F);
+		System.out.println(9D/3);
+		//
+		System.out.println(1+1 + "Ergebnis");
+		System.out.println("1 + 1 =" + 1 + 1);
+		//
+		System.out.println((1+1) + "Ergebnis");
+		System.out.println("1 + 1 =" + (1+1));
+		
 		
 	}
 	
