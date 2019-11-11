@@ -49,6 +49,11 @@ public class VariablenBasics {
 		System.out.println(Double.MIN_VALUE);
 		System.out.println(Double.MAX_VALUE);
 		
+		
+		
+		
+		
+		
 	}
 
 }
