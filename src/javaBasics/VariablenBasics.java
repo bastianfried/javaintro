@@ -44,11 +44,49 @@ public class VariablenBasics {
 		System.out.println(Float.MAX_VALUE);
 	    
 		//double
-		double grosse_komma_zahl = 123456789.0987654321;
+		double grosse_komma_zahl = 123456789.0987654321D;	//D...Double
 		System.out.println(grosse_komma_zahl);
 		System.out.println(Double.MIN_VALUE);
 		System.out.println(Double.MAX_VALUE);
 		
+		//char
+		char ein_zeichen = 'a';
+		System.out.println(ein_zeichen);
+		//char zwei_zeichen = 'ab'; geht nicht
+		
+		//String
+		String text ="abcdefghijklmnop";
+		System.out.println(text);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
 		
 		
 		
