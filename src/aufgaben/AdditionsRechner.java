@@ -3,7 +3,7 @@ package aufgaben;
 public class AdditionsRechner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		for(int zahlA = 1; zahlA<100; zahlA=zahlA);
 
 	}
 
