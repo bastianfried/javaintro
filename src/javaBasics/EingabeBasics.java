@@ -8,7 +8,8 @@ public class EingabeBasics {
 		Scanner eingabe = new Scanner(System.in);
 				//
 		System.out.println(eingabe.nextLine());
-		
+//		eingabe.nextInt();
+//		eingabe.next();
 
 	}
 
