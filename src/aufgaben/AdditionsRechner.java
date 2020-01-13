@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class AdditionsRechner {
 
 public static void main(String[] args) {
-int x,y,z;
+long x,y,z;
 Scanner eingabe = new Scanner(System.in);
 //
         System.out.print("");
