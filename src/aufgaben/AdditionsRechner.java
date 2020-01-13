@@ -9,9 +9,9 @@ long x,y,z;
 Scanner eingabe = new Scanner(System.in);
 //
         System.out.print("");
-        x = eingabe.nextInt();
+        x = eingabe.nextLong();
         System.out.print("");
-        y = eingabe.nextInt();
+        y = eingabe.nextLong();
         z = x + y;
         System.out.println( z );
 }
