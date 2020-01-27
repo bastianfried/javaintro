@@ -18,11 +18,11 @@ public class Namensort {
 		namen.add("Martin Medek");
 
 		
-		if(compare.get[j-1] > compare[j]){  
+		
 			
 		}
 		}
 
-	}
+	
 
 
