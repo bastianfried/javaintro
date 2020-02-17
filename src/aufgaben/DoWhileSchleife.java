@@ -20,6 +20,7 @@ public class DoWhileSchleife {
 
 			namen.add(line);
 		}
+		if (line.contentEquals("z")) {namen.remove(namen.size()-1);}
 			int n = namen.size();
 			for (i = 1; i < n; i++) {
 				for (j = 0; j < (n - 1); j++) {
@@ -28,8 +29,8 @@ public class DoWhileSchleife {
 						t = namen.get(j);
 						namen.set(j, namen.get(j + 1));
 						namen.set(j + 1, t);
-
 						
+				
 
 							
 							
@@ -38,6 +39,7 @@ public class DoWhileSchleife {
 				}
 			}
 		}
+		
 			System.out.println(namen);
 	}
 }
